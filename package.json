@@ -1,0 +1,29 @@
+{
+  "family": "lys623",
+  "name": "jstest",
+  "version": "1.0.0",
+  "description": "just to learn javascript",
+  "homepage": "http://lys623.spmjs.org/jstest/",
+  "author": "61",
+  "maintainers": [
+    "61"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lys623/jstest.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": [
+      "jstest.js",
+      "jstest.css"
+    ],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
